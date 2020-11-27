@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">scan_gun</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="assignment">订单</string>
+    <string name="setting">设置</string>
+
+    <string name="scan_text">对准订单二维码进行扫描</string>
+</resources>
